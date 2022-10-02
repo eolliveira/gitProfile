@@ -1,0 +1,27 @@
+.profile-info-container {
+    background-color: #fff;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: #515151 solid 2px;
+}
+
+.profile-info-title {
+  color: #515151;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.profile-info-description {
+  color: #515151;
+  font-size: 14px;
+  margin: 0 0 0 5px;
+}
+
+.result-container {
+  background-color: #fff;
+}
